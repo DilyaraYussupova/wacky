@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin: 2rem;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+table {
+    margin: 2rem auto;
+    margin-bottom: 0px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    padding: 16px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2
+}
+
+table a {
+    color: red;
+    text-decoration: none;
+}
+
+h1, h3, h4 {
+    text-align: center;
+}
+
+.pure-form {
+    text-align: center; 
+}
